@@ -2,8 +2,8 @@
 <h3 align="center"><em style="font-style: italic">"Everybody in this country should learn how to program a computer... because it teaches you how to think!" (Steve Jobs)</em></h3>
 
 <br/>
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taironedias" alt="taironedias" /></a> </p> -->
-<img align="right" alt="GIF" src=".resources/code.gif" width="500" height="320" />
+
+<img align="right" alt="GIF" src=".resources/code.gif" width="400" height="250" />
 
 ### 🤵 About Me:
 
@@ -11,19 +11,17 @@
 
 - 👩🏻‍💻 Full Stack Developer at <a href="https://conexa.app/"><b>Conexa</b></a>
 
-- 📌 Current working with PHP, jQuery and Bootstrap
+- 📌 Current working with <b>PHP, jQuery</b> and <b>Bootstrap</b>
 
-- 🌱 I’m currently learning: <b>Node.js, ReactJS and React Native</b>
+- 🌱 I’m currently learning <b>Node.js</b> and <b>ReactJS</b>
 
-- 💻 Website - [taironedias.github.io/me](https://taironedias.github.io/me)
+- 💻 Website in [taironedias.github.io/me](https://taironedias.github.io/me)
 
 - 🇧🇷 Living in Brazil
 
 - ⚡ My store in [Google Play](https://play.google.com/store/apps/developer?id=DiasDevelopers)
 
-- 📫 How to reach me: 
-    - LinkedIn: [@tcdias](https://linkedin.com/in/tcdias)
-    - Twitter: [@taii_d](https://twitter.com/taii_d)
+- 📫 How to reach me [LinkedIn](https://linkedin.com/in/tcdias) or [Twitter](https://twitter.com/taii_d)
 
 
 <br/>
@@ -31,11 +29,6 @@
 <br/>
 <h3 align="center"><img src=".resources/stack.svg" alt="stacks" width="700" />
 </h3>
-
-
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=taironedias&label=Profile%20views&color=0e75b6&style=flat" alt="taironedias" /> </p> -->
-
-
 
 <br>
 <h2 align="center">My Github stats:</h2>
