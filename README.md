@@ -13,7 +13,7 @@
 
 - 📌 Current working with <b>PHP, jQuery</b> and <b>Bootstrap</b>
 
-- 🌱 I’m currently learning <b>Node.js</b> and <b>ReactJS</b>
+- 🌱 I’m currently learning <b>Node.js</b> and <b>Vue.js</b>
 
 - 💻 Website in [taironedias.github.io/me](https://taironedias.github.io/me)
 
@@ -21,7 +21,7 @@
 
 - ⚡ My store in [Google Play](https://play.google.com/store/apps/developer?id=DiasDevelopers)
 
-- 📫 How to reach me [LinkedIn](https://linkedin.com/in/tcdias) or [Twitter](https://twitter.com/taii_d)
+- 📫 How to reach me [LinkedIn](https://linkedin.com/in/tcdias)
 
 
 <br/>
