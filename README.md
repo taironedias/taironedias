@@ -9,11 +9,11 @@
 
 - 🎓 Computer Engineering at <a href="https://ufrb.edu.br/portal/"><b>UFRB</b></a>
 
-- 👩🏻‍💻 Full Stack Developer at <a href="https://conexa.app/"><b>Conexa</b></a>
+- 👩🏻‍💻 Tech Manager | Full Stack Developer at <a href="https://conexa.app/"><b>Conexa</b></a>
 
-- 📌 Current working with <b>PHP, jQuery</b> and <b>Bootstrap</b>
+- 📌 Current working with <b>PHP</b>, <b>Vue.js</b>, <b>jQuery</b> and <b>Bootstrap</b>
 
-- 🌱 I’m currently learning <b>Node.js</b> and <b>Vue.js</b>
+- 🌱 I’m currently learning <b>Jira Software</b>, <b>Node.js</b> and <b>GCP</b>
 
 - 💻 Website in [taironedias.github.io/me](https://taironedias.github.io/me)
 
@@ -25,7 +25,7 @@
 
 
 <br/>
-<h2 align="center">Languages and Tools</h2>
+<h2 align="center">Honey...</h2> 😍
 <br/>
 <h3 align="center"><img src=".resources/stack.svg" alt="stacks" width="700" />
 </h3>
