@@ -25,7 +25,7 @@
 
 
 <br/>
-<h2 align="center">Honey...</h2> 😍
+<h2 align="center">Honey... 😍</h2>
 <br/>
 <h3 align="center"><img src=".resources/stack.svg" alt="stacks" width="700" />
 </h3>
